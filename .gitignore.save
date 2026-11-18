@@ -1,0 +1,21 @@
+# Unreal
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.idea/
+*.xcworkspace/
+*.xcodeproj/
+.DS_Store
+
+# Plugins de Wwise
+Plugins/Wwise/
+Plugins/WwiseSoundEngine/
+Plugins/WwiseNiagara/
+
+# Wwise: archivos generados o locales
+*_WwiseProject/GeneratedSoundBanks/
+*_WwiseProject/.cache/
+*_WwiseProject/*.wsettings

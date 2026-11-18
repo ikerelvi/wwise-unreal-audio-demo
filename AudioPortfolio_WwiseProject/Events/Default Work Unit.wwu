@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{537962D9-041B-43A8-9774-F31D45D8E2A2}" SchemaVersion="123">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{537962D9-041B-43A8-9774-F31D45D8E2A2}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_Test" ID="{62A9A578-594D-4658-8CDD-654720F5E54C}">
+					<ChildrenList>
+						<Action Name="" ID="{D8F51D32-55B4-4E2F-849D-E9669B356BAA}" ShortID="415502279">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gem_Recharge" ID="{1DB83446-8962-47CE-A9F3-8579A136788B}" WorkUnitID="{23AA08AC-B71E-4A42-8FE0-949BA7F72062}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
