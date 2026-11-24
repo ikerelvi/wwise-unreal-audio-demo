@@ -32,4 +32,3 @@ All audio is original unless stated otherwise. Unreal Engine template content be
 
 ## Author
 Iker Elorza Vidal, audio engineer. https://ikerelvi.com
-EOF
